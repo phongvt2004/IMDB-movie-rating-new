@@ -1,0 +1,16 @@
+name: ds-env
+channels:
+- conda-forge
+dependencies:
+- jupyterlab
+- notebook
+- python=3.11.7
+- matplotlib
+- numpy
+- pandas
+- seaborn
+- scikit-learn
+- pymongo
+- beautifulsoup4
+- selenium
+- catboost
